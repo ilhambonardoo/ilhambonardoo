@@ -53,12 +53,3 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fobltthvr22qb6larj7tyz3d7e&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&mode=dark&bar_color=000000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
-
-<div align="center">
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://linkedin.com/in/ilhambonardo)
-[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />](https://github.com/ilhambonardoo)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />](https://instagram.com/ilhambonardoo)
-[<img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify" />](https://open.spotify.com/user/31fobltthvr22qb6larj7tyz3d7e)
-
-</div>
