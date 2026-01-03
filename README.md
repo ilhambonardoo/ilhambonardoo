@@ -1,4 +1,4 @@
-# WELCOME TO MY GITHUB 👋
+<h1 align="center"> WELCOME TO MY GITHUB 👋 </h1>
 
 ### 🙋 About Me
 
