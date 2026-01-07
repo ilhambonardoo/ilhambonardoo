@@ -45,10 +45,20 @@
 
 ---
 
-### 🎵 Now Playing on Spotify
+### 🎵 Spotify
 
 <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fobltthvr22qb6larj7tyz3d7e&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&mode=dark&bar_color=000000&bar_color_cover=false)](https://open.spotify.com/user/31fobltthvr22qb6larj7tyz3d7e)
+
+</div>
+
+<div align="center">
+  <img src="https://spotify-recent-played.vercel.app/api?uid=31fobltthvr22qb6larj7tyz3d7e&type=top-artists&count=5" alt="Top Artists" />
+</div>
+
+<div align="center">
+
+[![Spotify Followers](https://img.shields.io/endpoint?color=1ED760&label=Spotify%20Followers&style=for-the-badge&url=https%3A%2F%2Fmshindo-spotify-badge.vercel.app%2Fapi%2Ffollowers%2FISI_USER_ID_KAMU)](https://open.spotify.com/user/ISI_USER_ID_KAMU)
 
 </div>
