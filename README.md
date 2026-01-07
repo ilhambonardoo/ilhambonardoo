@@ -59,6 +59,6 @@
 
 <div align="center">
 
-[![Spotify Followers](https://img.shields.io/endpoint?color=1ED760&label=Spotify%20Followers&style=for-the-badge&url=https%3A%2F%2Fmshindo-spotify-badge.vercel.app%2Fapi%2Ffollowers%2FISI_USER_ID_KAMU)](https://open.spotify.com/user/ISI_USER_ID_KAMU)
+[![Spotify Followers](https://img.shields.io/endpoint?color=1ED760&label=Spotify%20Followers&style=for-the-badge&url=https%3A%2F%2Fmshindo-spotify-badge.vercel.app%2Fapi%2Ffollowers%2Fuid=31fobltthvr22qb6larj7tyz3d7e)](https://open.spotify.com/user/uid=31fobltthvr22qb6larj7tyz3d7e)
 
 </div>
