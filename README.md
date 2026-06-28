@@ -27,14 +27,15 @@
       <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
       <a href="https://bun.sh/" target="_blank"><img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" /></a>
       <a href="https://www.prisma.io/" target="_blank"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" /></a>
-      <a href="https://codeigniter.com/" target="_blank"><img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Ci4"/></a>
+      <a href="https://codeigniter.com/" target="_blank"><img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=cohttps://github.com/ilhambonardoo/ilhambonardoo/blob/main/README.mddeigniter&logoColor=white" alt="Ci4"/></a>
       <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <h3>💾 Database</h3>
-      <a href="https://docs.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+      <a href="https://supabase.com/docs" target="_blank"><img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="MongoDB" /></a>
+      <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgre" /></a>
       <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
       <a href="https://firebase.google.com/docs" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
     </td>
