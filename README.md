@@ -7,11 +7,11 @@
 </p>
 
 <br />
-
   
-
 <div align="center">
+
 ## GitHub Statistics
+
 <p align="center">
   <img height="185" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ilhambonardoo&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="185" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ilhambonardoo&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
