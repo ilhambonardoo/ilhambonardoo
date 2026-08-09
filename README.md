@@ -87,12 +87,17 @@
     <td align="center" valign="middle">
       <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhambonardoo&theme=dark&hide_border=true" alt="GitHub Streak" />
     </td>
-    <td align="center" valign="middle">
-      <img height="180" src="https://github-readme-stats-ilhambonardoo.vercel.app/api/top-langs/?username=ilhambonardoo&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+    <td>  
+   <img height="180" src="https://github-readme-stats-ilhambonardoo.vercel.app/api/top-langs/?username=ilhambonardoo&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
     </td>
-    <td>
-    <img height="185" src="https://github-readme-stats-ilhambonardoo.vercel.app/api?username=ilhambonardoo&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img height="185" src="https://github-readme-stats-ilhambonardoo.vercel.app/api?username=ilhambonardoo&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</div>
 </div>
