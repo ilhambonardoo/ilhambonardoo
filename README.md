@@ -10,21 +10,6 @@
   
 <div align="center">
 
-## GitHub Statistics
-
-<table border="0">
-  <tr>
-    <td align="center" valign="middle">
-      <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhambonardoo&theme=dark&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td align="center" valign="middle">
-      <img height="180" src="https://github-readme-stats-ilhambonardoo.vercel.app/api/top-langs/?username=ilhambonardoo&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-    </td>
-    <td>
-    <img height="185" src="https://github-readme-stats-ilhambonardoo.vercel.app/api?username=ilhambonardoo&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
-  </tr>
-</table>
-
 <table border="0">
   <tr>
     <td align="center" width="50%" valign="top">
@@ -92,6 +77,21 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       </a><br/>
     </td>
+  </tr>
+</table>
+
+## GitHub Statistics
+
+<table border="0">
+  <tr>
+    <td align="center" valign="middle">
+      <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhambonardoo&theme=dark&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td align="center" valign="middle">
+      <img height="180" src="https://github-readme-stats-ilhambonardoo.vercel.app/api/top-langs/?username=ilhambonardoo&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+    </td>
+    <td>
+    <img height="185" src="https://github-readme-stats-ilhambonardoo.vercel.app/api?username=ilhambonardoo&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
   </tr>
 </table>
 
