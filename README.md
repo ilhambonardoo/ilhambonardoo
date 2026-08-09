@@ -10,10 +10,13 @@
   
 <div align="center">
 
+
+## TechStack
 <table border="0">
+  <!-- Baris 1: Development -->
   <tr>
     <td align="center" width="50%" valign="top">
-      <h3>💻 Web & Backend</h3>
+      <h3>Web & Backend</h3>
       <a href="https://nodejs.org/en/docs/" target="_blank">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
       </a>
@@ -31,7 +34,7 @@
       </a>
     </td>
     <td align="center" width="50%" valign="top">
-      <h3>🔌 Hardware & IoT Ecosystem</h3>
+      <h3>Hardware & IoT Ecosystem</h3>
       <a href="https://docs.espressif.com/projects/esp-idf/en/latest/esp32/" target="_blank">
         <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
       </a>
@@ -43,9 +46,11 @@
       </a>
     </td>
   </tr>
+
+  <!-- Baris 2: Data & Core Languages -->
   <tr>
     <td align="center" width="50%" valign="top">
-      <h3>🗄️ Databases & Storage</h3>
+      <h3>Databases & Storage</h3>
       <a href="https://www.postgresql.org/docs/" target="_blank">
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </a>
@@ -60,12 +65,15 @@
       </a>
     </td>
     <td align="center" width="50%" valign="top">
-      <h3>🛠️ DevOps & Languages</h3>
-      <a href="https://docs.docker.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <h3>Programming Languages</h3>
+      <a href="https://go.dev/doc/" target="_blank">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
       </a>
       <a href="https://en.cppreference.com/w/" target="_blank">
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+      </a>
+      <a href="https://docs.python.org/3/" target="_blank">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       </a><br/>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -73,9 +81,25 @@
       <a href="https://www.typescriptlang.org/docs/" target="_blank">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
       </a>
-      <a href="https://docs.python.org/3/" target="_blank">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      </a><br/>
+    </td>
+  </tr>
+
+  <!-- Baris 3: Infrastructure & DevOps -->
+  <tr>
+    <td align="center" colspan="2" valign="top">
+      <h3>DevOps & Infrastructure</h3>
+      <a href="https://docs.docker.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      </a>
+      <a href="https://git-scm.com/doc" target="_blank">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      </a>
+      <a href="https://docs.github.com/en/actions" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      </a>
+      <a href="https://nginx.org/en/docs/" target="_blank">
+        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+      </a>
     </td>
   </tr>
 </table>
